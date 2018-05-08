@@ -2,7 +2,15 @@
     
     font-family:Lobster;
     font-size:30px;
+    margin:20px;
 }
 .subheading{
     font-size:30px;
+}
+.table1{
+    margin:30px;
+}
+.marketing1{
+    width:220px;
+    padding:10px;
 }
